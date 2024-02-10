@@ -12,3 +12,4 @@
 - `python manage.py migrate` - применение миграций
 - `python manage.py runserver` - запуск django
 - `python manage.py run_weather_bot` - запуск бота
+- `python manage.py test` - запуск тестов
