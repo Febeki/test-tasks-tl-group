@@ -3,6 +3,7 @@
 **Запуск**:
 
 - `git clone https://github.com/MaximGudkov/portal.git` - клонирование репозитория
+- переименуйте файл .env.axample в .env
 - `python -m venv venv` - создание виртуального окружения
 - `venv/Scripts/activate` - активация виртуального окружения
 -  НА linux: `source venv/bin/activate`
