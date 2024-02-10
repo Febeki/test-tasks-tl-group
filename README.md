@@ -6,7 +6,7 @@
 - `python -m venv venv` - создание виртуального окружения
 - `venv/Scripts/activate` - активация виртуального окружения
 -  НА linux: `source venv/bin/activate`
-- `pip install -r requirements.txt` - Скачивание зависимостей
+- `pip install -r requirements.txt` - скачивание зависимостей
 - `python manage.py makemigrations` - создание миграций
 - `python manage.py migrate` - применение миграций
 - `python manage.py runserver` - запуск django
